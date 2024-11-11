@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Welcome to the Online Course Catalog</h1>
-    <p>Browse available courses and learn more about them.</p>
+    <h4>Browse available courses and learn more about them.</h4>
 
     <nav>
         <ul>
